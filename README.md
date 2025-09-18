@@ -10,12 +10,12 @@ To write a python program to find the inverse of a matrix
 ### Step 3: Use the np.linalg.inv() fun
 ### Step 4: End the program.
 
-Program:<img width="444" height="132" alt="Screenshot 2025-09-18 090501" src="https://github.com/user-attachments/assets/eba10b1b-b6a7-46f4-a6e7-8dcb26e29b95" />
+
+## Program:<img width="444" height="132" alt="Screenshot 2025-09-18 090501" src="https://github.com/user-attachments/assets/aff47017-ddf5-4e20-afa1-b28aa5473463" />
 
 
-## Program:<img width="442" height="196" alt="Screenshot 2025-09-18 090541" src="https://github.com/user-attachments/assets/cac7ed82-eb0e-4c82-b55b-5db6126c1441" />
+## Output:<img width="442" height="196" alt="Screenshot 2025-09-18 090541" src="https://github.com/user-attachments/assets/7304449d-5534-4e07-b42d-1699709eedb9" />
 
-## Output:
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
